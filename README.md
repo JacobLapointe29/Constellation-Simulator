@@ -41,4 +41,4 @@ This project demonstrates event handling, state-based UI, and rendering using SF
 
 ## Preview
 
-![App Preview](assets/images/preview.png)
+![App Preview](assets/preview.png)
